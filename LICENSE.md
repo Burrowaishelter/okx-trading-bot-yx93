@@ -1,4 +1,4 @@
-# 
+# new Automation Script for okx trading bot | auto-leverage + risk-management is the best okx trading bot, featuring auto-leverage and risk-management. Smart, fast, and optimized
 
 
 
